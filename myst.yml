@@ -10,7 +10,6 @@ project:
     - catalog
     - ML
     - AI
-  authors: Amanda M. Thomas, William Marfo, and Loïc Bachelot
 
   toc:
     # --- Intro / Overview ---
@@ -19,8 +18,14 @@ project:
     # --- Catalog Descriptions ---
     - title: Catalogs
       children:
+        - file: catalogs/stone_jgr_2018.md
+          title: Stone et al. (2018)
+        - file: catalogs/merrill_g3_2022.md
+          title: Merrill et al. (2022)
         - file: catalogs/littel_tectonics_2023.md
+          title: Littel et al. (2023)
         - file: catalogs/shelly_grl_2025.md
+          title: Shelly et al. (2025)
 
     # --- Submission Instructions ---
     - title: Submission Instructions
