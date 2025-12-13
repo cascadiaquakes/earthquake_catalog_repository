@@ -1,0 +1,13 @@
+/* Modest global increase (affects logo) */
+img {
+  max-height: 80px !important;   /* tweak: 60–90px is usually safe */
+  height: auto !important;
+  width: auto !important;
+}
+
+/* Reset content images to normal */
+main img {
+  max-height: none !important;
+  height: auto !important;
+  width: auto !important;
+}

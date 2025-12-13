@@ -1,0 +1,35 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+
+project:
+  id: 286751e3-df38-43c6-ab80-a47f7e56a282
+  title: CRESCENT Earthquake Catalog Repository
+  description: Descriptions of catalogs in the CRESCENT repository and submission instructions
+  keywords:
+    - earthquake
+    - catalog
+    - ML
+    - AI
+  authors: Amanda M. Thomas, William Marfo, and Loïc Bachelot
+
+  toc:
+    # --- Intro / Overview ---
+    - file: intro.md
+
+    # --- Catalog Descriptions ---
+    - title: Catalogs
+      children:
+        - file: catalogs/littel_tectonics_2023.md
+        - file: catalogs/shelly_grl_2025.md
+
+    # --- Submission Instructions ---
+    - title: Submission Instructions
+      children:
+        - file: submission.md
+
+site:
+  template: book-theme
+  options:
+    favicon: crescent_circle.png
+    logo: Crescent_logo.png
+    style: _overrides/custom.css
