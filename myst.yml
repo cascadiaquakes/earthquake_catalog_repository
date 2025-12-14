@@ -18,10 +18,14 @@ project:
     # --- Catalog Descriptions ---
     - title: Catalogs
       children:
+        - file: catalogs/bostock_jgr_2015.md
+          title: Bostock et al. (2015)
         - file: catalogs/stone_jgr_2018.md
           title: Stone et al. (2018)
         - file: catalogs/merrill_g3_2022.md
           title: Merrill et al. (2022)
+        - file: catalogs/morton_jgr_2023.md
+          title: Morton et al. (2023)
         - file: catalogs/littel_tectonics_2023.md
           title: Littel et al. (2023)
         - file: catalogs/shelly_grl_2025.md
