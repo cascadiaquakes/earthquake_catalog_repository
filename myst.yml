@@ -30,6 +30,8 @@ project:
           title: Littel et al. (2023)
         - file: catalogs/shelly_grl_2025.md
           title: Shelly et al. (2025)
+        - file: catalogs/hirao_jgr_2025.md
+          title: Hirao et al. (2025)
 
     # --- Submission Instructions ---
     - title: Submission Instructions
