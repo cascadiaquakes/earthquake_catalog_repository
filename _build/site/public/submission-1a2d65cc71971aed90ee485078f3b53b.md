@@ -32,21 +32,7 @@ Your catalog can be submitted as a comma-separated values (CSV) file with a sing
 
 ### Optional Fields:
 
-- **MAG:** Local magnitude (e.g., ML), if available
-- **STRIKE:** Fault strike (degrees clockwise from North)
-- **DIP:** Fault dip (degrees from horizontal)
-- **RAKE:** Slip rake (degrees, Aki & Richards convention)
-- **M$_{0}$:** Scalar seismic moment (N·m)
-
-Moment tensor components are provided in units of N·m and defined in a right-handed Cartesian coordinate system (commonly 
-x=East, y= North, z= Up; users should confirm the convention used). The moment tensor is symmetric.
-
-- **M<sub>xx</sub>:**  Normal component in the x-direction (extension or compression along x)
-- **M<sub>yy</sub>:**  Normal component in the y-direction (extension or compression along y)
-- **M<sub>zz</sub>:**  Normal component in the z-direction (vertical extension or compression)
-- **M<sub>xy</sub>:**  Shear component acting in the x-direction on planes normal to y
-- **M<sub>xz</sub>:**  Shear component acting in the x-direction on planes normal to z
-- **M<sub>yz</sub>:**  Shear component acting in the y-direction on planes normal to z
+- **MAG:** Local Magnitude
 
 Each row in the catalog should correspond to a different earthquake.
 

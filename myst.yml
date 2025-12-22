@@ -23,6 +23,8 @@ project:
         - file: catalogs/stone_jgr_2018.md
           title: Stone et al. (2018)
         - file: catalogs/merrill_g3_2022.md
+          title: Ducellier et al. (2022)
+        - file: catalogs/ducellier_jgr_2022.md
           title: Merrill et al. (2022)
         - file: catalogs/morton_jgr_2023.md
           title: Morton et al. (2023)
@@ -44,3 +46,8 @@ site:
     favicon: crescent_circle.png
     logo: Crescent_logo.png
     style: _overrides/custom.css
+	
+html:
+  theme:
+    options:
+      collapse_navigation: false
