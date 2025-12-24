@@ -58,22 +58,7 @@ Each earthquake catalog included in the CRESCENT Earthquake Catalog Repository h
 
 To create a JupyterBook page for your catalog you will need to define the following descriptive metadata fields.
 
-- **REGION:** Region spanned by the catalog (e.g., the Blanco transform, Mt. St. Helens)
-- **TIME SPAN:** Time period spanned by the catalog
-- **NUMBER OF EVENTS:** Total number of events in the catalog 
-- **DETECTION METHOD:** Detection method, possibilities include 
-	- STA/LTA (https://doi.org/10.1785/BSSA0680051521)
-	- PhaseNet (https://doi.org/10.1093/gji/ggy423)
-	- Template Matching (https://doi.org/10.1111/j.1365-246X.2006.02865.x)
-- **ASSOCIATION METHOD:** Association method, possibilities include 
-	- PyOcto (https://doi.org/10.26443/seismica.v3i1.1130) 
-	- GAMMA (https://doi.org/10.1029/2021JB023249)
-- **LOCATION METHOD:** Location method, possibilities include 
-	- HypoInverse (https://doi.org/10.3133/ofr02171)
-	- HypoDD (https://doi.org/10.3133/ofr01113)
-	- NonLinLoc (https://doi.org/10.1007/978-94-015-9536-0_5)
-	- Growclust (https://doi.org/10.1785/0220160188)
-- **VELOCITY MODEL:** Citation and any other description of the velocity model used to locate seismicity
+- **Region:** Region spanned by the catalog (e.g., the Blanco transform, Mt. St. Helens)
 
 ### Catalog Page Template
 
@@ -106,13 +91,13 @@ In the DOI badge URL, replace `/` with `%2F` (URL encoding).
 
 ## Catalog Summary
 
-- **REGION:** {Region name}  
-- **TIME SPAN:** {YYYY–YYYY or YYYY-MM-DD to YYYY-MM-DD}  
-- **NUMBER OF EVENTS:** {integer + event type}  
-- **DETECTION METHOD:** {method, e.g. STA/LTA, ML}  
-- **ASSOCIATION METHOD:** {method e.g. PyOcto, Manual}  
-- **LOCATION METHOD:** {method e.g. HypoInverse+HypoDD}  
-- **VELOCITY MODEL:** {velocity model name + citation}  
+- **Region:** {Region name}  
+- **Time span:** {YYYY–YYYY or YYYY-MM-DD to YYYY-MM-DD}  
+- **Number of events:** {integer + event type}  
+- **Detection Method:** {method, e.g. STA/LTA, ML}  
+- **Association Method:** {method e.g. PyOcto, Manual}  
+- **Location Method:** {method e.g. HypoInverse+HypoDD}  
+- **Velocity Model:** {velocity model name + citation}  
 :::
 
 ## Step 3: Submit your catalog to the repository

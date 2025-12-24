@@ -18,10 +18,10 @@ Low-frequency earthquakes (LFEs) are small magnitude earthquakes with typical ma
 
 ## Catalog Summary
 
-- **REGION:** Southern Cascadia  
-- **TIME SPAN:** 2004-2011
-- **NUMBER OF EVENTS:** 477,715 earthquakes
-- **DETECTION METHOD:** Template Matching 
-- **ASSOCIATION METHOD:** Template Matching
-- **LOCATION METHOD:** N/A 
-- **VELOCITY METHOD:** N/A
+- **Region:** Southern Cascadia  
+- **Time span:** 2004-2011
+- **Number of events:** 477,715 earthquakes
+- **Detection Method:** Template Matching 
+- **Association Method:** Template Matching
+- **Location Method:** N/A 
+- **Velocity Model:** N/A
