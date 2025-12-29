@@ -61,18 +61,24 @@ To create a JupyterBook page for your catalog you will need to define the follow
 - **REGION:** Region spanned by the catalog (e.g., the Blanco transform, Mt. St. Helens)
 - **TIME SPAN:** Time period spanned by the catalog
 - **NUMBER OF EVENTS:** Total number of events in the catalog 
-- **DETECTION METHOD:** Detection method, possibilities include 
-	- STA/LTA (https://doi.org/10.1785/BSSA0680051521)
+- **DETECTION METHOD:** Detection method, possibilities include: 
+	- ENVELOC (https://doi.org/10.1029/2008gl035458)
 	- PhaseNet (https://doi.org/10.1093/gji/ggy423)
+	- REST (https://doi.org/10.1016/j.epsl.2019.05.033)
+	- STA/LTA (https://doi.org/10.1785/BSSA0680051521)
+	- Subspace Detection (https://doi.org/10.2172/900081)
 	- Template Matching (https://doi.org/10.1111/j.1365-246X.2006.02865.x)
-- **ASSOCIATION METHOD:** Association method, possibilities include 
-	- PyOcto (https://doi.org/10.26443/seismica.v3i1.1130) 
+- **ASSOCIATION METHOD:** Association method, possibilities include: 
+	- ENVELOC (https://doi.org/10.1029/2008gl035458)
 	- GAMMA (https://doi.org/10.1029/2021JB023249)
-- **LOCATION METHOD:** Location method, possibilities include 
+	- PyOcto (https://doi.org/10.26443/seismica.v3i1.1130) 
+	- REST (https://doi.org/10.1016/j.epsl.2019.05.033)
+- **LOCATION METHOD:** Location method, possibilities include:
+	- ENVELOC (https://doi.org/10.1029/2008gl035458)
+	- Growclust (https://doi.org/10.1785/0220160188)
 	- HypoInverse (https://doi.org/10.3133/ofr02171)
 	- HypoDD (https://doi.org/10.3133/ofr01113)
 	- NonLinLoc (https://doi.org/10.1007/978-94-015-9536-0_5)
-	- Growclust (https://doi.org/10.1785/0220160188)
 - **VELOCITY MODEL:** Citation and any other description of the velocity model used to locate seismicity
 
 ### Catalog Page Template
