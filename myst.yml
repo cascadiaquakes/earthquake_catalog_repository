@@ -22,6 +22,8 @@ project:
           title: Bostock et al. (2015)
         - file: catalogs/stone_jgr_2018.md
           title: Stone et al. (2018)
+        - file: catalogs/wech_jgr_2021.md
+          title: Wech (2021)
         - file: catalogs/merrill_g3_2022.md
           title: Ducellier et al. (2022)
         - file: catalogs/ducellier_jgr_2022.md

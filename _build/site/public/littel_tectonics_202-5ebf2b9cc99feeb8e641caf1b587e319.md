@@ -1,13 +1,13 @@
-# Merrill et al. (2022)
+# Littel et al. (2023)
 
-## Complex Structure in the Nootka Fault Zone Revealed by Double-Difference Tomography and a New Earthquake Catalog
+## Microplate Evolution in the Queen Charlotte Triple Junction & Explorer Region: New Insights From Microseismicity
 
-R. J. Merrill, M. G. Bostock, S. M. Peacock, A. J. Schaeffer, S. W. Roecker
+G. F. Littel, M. G. Bostock, A. Schaeffer, S. Roecker
 
-[![DOI](https://img.shields.io/badge/DOI-10.1029%2F2021GC010205-blue)](https://doi.org/10.1029/2021GC010205)
+[![DOI](https://img.shields.io/badge/DOI-10.1029%2F2022TC007494-blue)](https://doi.org/10.1029/2022TC007494)
 
-:::{figure} ./merrilletal2022.jpg
-:label: fig:Merrill et al. Figure 3
+:::{figure} ./litteletal2023.jpg
+:label: fig:Littel et al. Figure 3
 
 Local magnitudes determined by the GSC for the GSC catalog, divided into three subregions of the study area. Events included have at least 4 paired P and S phase picks.
 ::
@@ -18,10 +18,10 @@ The Queen Charlotte triple junction/Explorer microplate region offshore British 
 
 ## Catalog Summary
 
-- **REGION:** Nootka Fault Zone  
-- **TIME SPAN:** 2000-2020
-- **NUMBER OF EVENTS:** 108, 675 earthquakes
+- **REGION:** Queen Charlotte Triple Junction  
+- **TIME SPAN:** 1995- April 2021  
+- **NUMBER OF EVENTS:** 18,441 earthquakes
 - **DETECTION METHOD:** REST  
 - **ASSOCIATION METHOD:** REST  
-- **LOCATION METHOD:** HypoDD 
-- **VELOCITY MODEL:** TomoDD model presented in https://doi.org/10.1029/2021GC010205
+- **LOCATION METHOD:** HypoInverse+HypoDD 
+- **VELOCITY MODEL:** Waldron et al. (1982) + variable Vp/Vs
