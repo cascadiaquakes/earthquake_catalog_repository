@@ -20,6 +20,8 @@ project:
       children:
         - file: catalogs/bostock_jgr_2015.md
           title: Bostock et al. (2015)
+        - file: catalogs/plourde_grl_2015.md
+          title: Plourde et al. (2015)
         - file: catalogs/stone_jgr_2018.md
           title: Stone et al. (2018)
         - file: catalogs/wech_jgr_2021.md
