@@ -25,3 +25,7 @@ We use seismic waveform data from the Mendocino Experiment to detect low-frequen
 - **Association Method:** Template Matching
 - **Location Method:** Hypo2000 + HypoDD
 - **Velocity Model:** Modified from https://doi.org/10.1029/94JB01238
+
+## Notes
+
+Note that the times for a given template are detection times and not origin times.  The detection time is offset from the origin time of less than one minute.
