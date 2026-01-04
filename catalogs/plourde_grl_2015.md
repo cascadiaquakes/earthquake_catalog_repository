@@ -28,4 +28,4 @@ We use seismic waveform data from the Mendocino Experiment to detect low-frequen
 
 ## Notes
 
-Note that the times for a given template are detection times and not origin times.  The detection time is offset from the origin time of less than one minute.
+Unfortunately this dataset does not contain detection times for all templates in the study, as some were lost to a corrupted hard drive. Times for a given template are detection times and not origin times. The detection time is offset from the origin time by less than one minute.
