@@ -23,7 +23,7 @@ We use seismic waveform data from the Mendocino Experiment to detect low-frequen
 - **Number of events:** 4,856 low-frequency earthquakes 
 - **Detection Method:** Template Matching
 - **Association Method:** Template Matching
-- **Location Method:** Hypo2000 + HypoDD
+- **Location Method:** HypoInverse
 - **Velocity Model:** Modified from https://doi.org/10.1029/94JB01238
 
 ## Notes
