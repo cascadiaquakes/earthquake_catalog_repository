@@ -19,8 +19,8 @@ For the past ∼12 years the Pacific Northwest Seismic Network has been automati
 ## Catalog Summary
 
 - **REGION:** Cascadia 
-- **TIME SPAN:** XXXX-XXXX 
-- **NUMBER OF EVENTS:** XXXX tremor
+- **TIME SPAN:** 8/6/2009-12/31/2025 
+- **NUMBER OF EVENTS:** 740,071 tremor
 - **DETCTION METHOD:** ENVELOC
 - **ASSOCIATION METHOD:** ENVELOC
 - **LOCATION METHOD:** ENVELOC
@@ -28,4 +28,4 @@ For the past ∼12 years the Pacific Northwest Seismic Network has been automati
 
 ## Notes
 
-A stative version of https://doi.org/10.1029/2021JB022523 tremor catalog is included in the Earthqake Catalog Repository.  This catalog is updated and maintained by the Pacific Northwest Seismic Network.  
+A static version of https://doi.org/10.1029/2021JB022523 tremor catalog is included in the Earthqake Catalog Repository.  This catalog is updated and maintained by the Pacific Northwest Seismic Network.  
