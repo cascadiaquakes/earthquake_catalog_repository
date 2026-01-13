@@ -40,8 +40,14 @@ flux sourced from the magma reservoir that migrates through crack networks.
 
 - **REGION:** Mt. St. Helens  
 - **TIME SPAN:** 2008-2023 
+- **EVENT TYPE:** Volcanic Earthquakes
 - **NUMBER OF EVENTS:** 31,133 earthquakes
 - **DETECTION METHOD:** Template Matching
 - **ASSOCIATION METHOD:** Template Matching 
 - **LOCATION METHOD:** HypoDD+GrowClust
 - **VELOCITY MODEL:** https://doi.org/10.1029/2018JB016203 + Vp/Vs=1.65
+- **MAGNITUTE TYPE:** M<sub>L</sub> (See Notes)
+
+## Notes
+
+Magnitudes are best characterized as M<sub>L</sub> but also include relative amplitude corrections.

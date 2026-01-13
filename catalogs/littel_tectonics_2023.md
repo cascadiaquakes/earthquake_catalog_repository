@@ -19,9 +19,11 @@ The Queen Charlotte triple junction/Explorer microplate region offshore British 
 ## Catalog Summary
 
 - **REGION:** Queen Charlotte Triple Junction  
-- **TIME SPAN:** 1995- April 2021  
+- **TIME SPAN:** 1995-April 2021  
+- **EVENT TYPE:** Tectonic Earthquakes
 - **NUMBER OF EVENTS:** 18,441 earthquakes
 - **DETECTION METHOD:** REST  
 - **ASSOCIATION METHOD:** REST  
 - **LOCATION METHOD:** HypoInverse+HypoDD 
 - **VELOCITY MODEL:** https://www.doi.org/10.14288/1.0052985 + variable Vp/Vs
+- **MAGNITUTE TYPE:** N/A

@@ -1,6 +1,6 @@
-# CRESCENT Earthquake Catalog Repository
+# CRESCENT Earthquake Catalog Repository and Viewer
 
-The **CRESCENT Earthquake Catalog Repository** is a community resource for the collection, documentation, and dissemination of peer-reviewed earthquake catalogs within the Cascadia Subduction Zone and surrounding regions. The repository is designed to support reproducible earthquake science by providing standardized access to curated catalogs derived using a wide range of detection, association, and location methodologies.
+The <a href="https://cascadiaquakes.org">Cascadia Region Earthquake Science Center (CRESCENT)</a>  <a href="https://cascadiaquakes.github.io/earthquake_catalog_repository/">**Earthquake Catalog Repository**</a> and <a href="https://eqcat.cascadiaquakes.org">**Earthquake Catalog Viewer**</a> is a community resource for the collection, documentation, and dissemination of peer-reviewed earthquake catalogs within the Cascadia Subduction Zone and surrounding regions. The repository is designed to support reproducible earthquake science by providing standardized access to curated catalogs derived using a wide range of detection, association, and location methodologies.
 
 This effort is part of the broader mission of the **Cascadia Region Earthquake Science Center (CRESCENT)** to advance understanding of earthquake science in the Pacific Northwest through open science, community model development, and shared cyberinfrastructure.
 
@@ -36,7 +36,8 @@ Catalog description pages follow a standardized Markdown format to ensure clarit
 
 ## Visualization
 
-Catalogs hosted in this repository are integrated into the **CRESCENT Earthquake Catalog Viewer**, enabling interactive exploration of seismicity patterns in space and time. The viewer is intended as a discovery and comparison tool and does not replace citation of the original peer-reviewed publications.
+Catalogs hosted in this repository are integrated into the <a href="https://eqcat.cascadiaquakes.org" style="color:#6fa8dc; font-weight:bold;">**CRESCENT Earthquake Catalog Viewer**</a>
+, enabling interactive exploration of seismicity patterns in space and time. The viewer is intended as a discovery and comparison tool and does not replace citation of the original peer-reviewed publications.
 
 ## Metadata
 
@@ -47,15 +48,19 @@ For a description of the catalog fields and other metadata please review the {re
 The CRESCENT Earthquake Catalog Repository is developed and maintained by the CRESCENT cyberinfrastructure team in collaboration with the broader Cascadia earthquake science community. Individual catalogs remain the intellectual property of their original authors.
 
 **Amanda M. Thomas**  
+amthom@ucdavis.edu  
 Department of Earth and Planetary Sciences, University of California, Davis  
 
 **William Marfo**  
-Cascadia Region Earthquake Science Center
-Department of Earth and Planetary Sciences, University of California, Davis  
+wmarfo@ucdavis.edu  
+Cascadia Region Earthquake Science Center    
+Department of Earth and Planetary Sciences, University of California, Davis
 
 **Loïc Bachelot**  
+lbachelo@uoregon.edu  
 Cascadia Region Earthquake Science Center  
 Department of Earth Sciences, University of Oregon
+
 
 ## Acknowledgments
 

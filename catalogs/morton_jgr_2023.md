@@ -20,8 +20,10 @@ The Cascadia subduction zone (CSZ) is known to host M9 megathrust ruptures; howe
 
 - **REGION:** Cascadia Subduction Zone  
 - **TIME SPAN:** 2011-2015
+- **EVENT TYPE:** Tectonic Earthquakes
 - **NUMBER OF EVENTS:** 5,282 earthquakes
 - **DETECTION METHOD:** Subspace detection 
 - **ASSOCIATION METHOD:** Subspace detection
 - **LOCATION METHOD:** HypoInverse 
 - **VELOCITY MODEL:** Combined 1D models
+- **MAGNITUDE TYPE:** M<sub>d</sub>

@@ -20,8 +20,10 @@ The Queen Charlotte triple junction/Explorer microplate region offshore British 
 
 - **REGION:** Nootka Fault Zone  
 - **TIME SPAN:** 2000-2020
-- **NUMBER OF EVENTS:** 108, 675 earthquakes
+- **EVENT TYPE:** Tectonic Earthquakes
+- **NUMBER OF EVENTS:** 108,675 earthquakes
 - **DETECTION METHOD:** REST  
 - **ASSOCIATION METHOD:** REST  
 - **LOCATION METHOD:** HypoDD 
 - **VELOCITY MODEL:** TomoDD model presented in https://doi.org/10.1029/2021GC010205
+- **MAGNITUDE TYPE:** N/A

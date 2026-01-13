@@ -20,8 +20,10 @@ We present a catalog of offshore seismicity generated from Cascadia Initiative (
 
 - **REGION:** Offshore Cascadia Subduction Zone 
 - **TIME SPAN:** 2011-2015 
-- **NUMBER OF EVENTS:** 271 earthquakes  
+- **EVENT TYPE:** Tectonic Earthquakes
+- **NUMBER OF EVENTS:** 271  
 - **DETECTION METHOD:** STA/LTA  
 - **ASSOCIATION METHOD:** Manual  
 - **LOCATION METHOD:** HypoInverse
 - **VELOCITY MODEL:** Modified from PNSN
+- **MAGNITUDE TYPE:** M<sub>L</sub>

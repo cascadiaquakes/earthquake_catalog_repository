@@ -1,4 +1,4 @@
-# Bostock et al. (2013)
+# Bostock et al. (2015)
 
 ## Magnitudes and moment-duration scaling of low-frequency earthquakes beneath southern Vancouver Island
 
@@ -18,10 +18,12 @@ We employ 130 low-frequency earthquake (LFE) templates representing tremor sourc
 
 ## Catalog Summary
 
-- **Region:** Southern Vancouver Island  
-- **Time span:** 2003-2013  
-- **Number of events:** 269,424 earthquakes 
-- **Detection Method:** Template Matching
-- **Association Method:** Template Matching
-- **Location Method:** Hypo2000 + HypoDD
-- **Velocity Model:** ???
+- **REGION:** Southern Vancouver Island  
+- **TIME SPAN:** 2003-2013  
+- **EVENT TYPE:** Low-frequency Earthquakes 
+- **NUMBER OF EVENTS:** 269,424  
+- **DETECTION METHOD:** Template Matching
+- **ASSOCIATION METHOD:** Template Matching
+- **LOCATION METHOD:** Hypo2000 + HypoDD
+- **VELOCITY MODEL:** ???
+- **MAGNITUDE TYPE:** M<sub>w</sub>

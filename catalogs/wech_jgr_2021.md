@@ -20,11 +20,13 @@ For the past ∼12 years the Pacific Northwest Seismic Network has been automati
 
 - **REGION:** Cascadia 
 - **TIME SPAN:** 8/6/2009-12/31/2025 
+- **EVENT TYPE:** Tremor
 - **NUMBER OF EVENTS:** 740,071 tremor
 - **DETCTION METHOD:** ENVELOC
 - **ASSOCIATION METHOD:** ENVELOC
 - **LOCATION METHOD:** ENVELOC
-- **VELOCITY MODEL:** https://doi.org/10.1785/0320230053
+- **VELOCITY MODEL:** https://doi.org/10.1029/2021JB022523
+- **MAGNITUDE TYPE:** M<sub>eL</sub>
 
 ## Notes
 

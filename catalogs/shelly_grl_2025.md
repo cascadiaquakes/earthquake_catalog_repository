@@ -20,8 +20,10 @@ Tectonic tremor monitoring occasionally detects events in an anomalous zone in s
 
 - **REGION:** Mendocino Triple Junction  
 - **TIME SPAN:** 2018-2024  
-- **NUMBER OF EVENTS:** 61,441 earthquakes 
+- **EVENT TYPE:** Low-frequency Earthquakes
+- **NUMBER OF EVENTS:** 61,441 
 - **DETCTION METHOD:** Template Matching
 - **ASSOCIATION METHOD:** Template Matching
 - **LOCATION METHOD:** HypoInverse + HypoDD
 - **VELOCITY MODEL:** https://doi.org/10.1785/0320230053
+- **MAGNITUDE TYPE:** N/A
