@@ -25,5 +25,17 @@ We employ 130 low-frequency earthquake (LFE) templates representing tremor sourc
 - **DETECTION METHOD:** Template Matching
 - **ASSOCIATION METHOD:** Template Matching
 - **LOCATION METHOD:** Hyp2000
-- **VELOCITY MODEL:** ???
+- **VELOCITY MODEL:** See Notes
 - **MAGNITUDE TYPE:** M<sub>w</sub>
+
+## Notes
+
+The 1D velocity model dates back to https://doi.org/10.1111/j.1365-246X.2005.02605.x where it is again cited as coming from GSC as (Cassidy, personal communication). The Vp/Vs is set at sqrt(3).  The Vp model is:
+
+GSC MODEL
+Vp Depth
+5.00  0.00
+6.00  1.00
+6.70  6.00
+7.10 30.00
+7.75 45.00
