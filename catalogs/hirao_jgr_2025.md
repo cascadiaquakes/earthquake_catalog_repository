@@ -11,9 +11,9 @@ B. Hirao, A. M. Thomas, D. R. Shelly, W. A. Thelen, and C. R. Journeau
 
 Map and depth sections of seismicity within the periods (A) 2008 to 2016 and (B) 2016 to
 2024.
-::
+:::
 
-## Abstract
+## Summary
 
 Seismicity during non-eruptive periods is useful for observing stress changes related to magmatic
 transport and volatile exsolution within active volcanoes. Mount St. Helens in
