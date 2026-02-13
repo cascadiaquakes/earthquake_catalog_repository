@@ -3,7 +3,7 @@
 This repository supports the **Earthquake Catalog Repository**, which documents the earthquake catalogs included in the **CRESCENT Earthquake Catalog Viewer** and describes how users can submit catalogs to the repository.
 
 📘 **View the Jupyter Book:**  
-👉 https://cascadiaquakes.github.io/earthquake_catalog_repository/
+👉 <a href="https://cascadiaquakes.github.io/earthquake_catalog_repository/" target="_blank">CRESCENT Earthquake Catalog Repository and Viewer Jupyter Book</a>
 
 The Jupyter Book provides:
 
@@ -44,11 +44,28 @@ For detailed instructions, please see the **Contributing** section in the Jupyte
 
 ## Citation and Acknowledgment
 
-If you use the Earthquake Catalog Repository or the CRESCENT Earthquake Catalog Viewer in your research, please cite the relevant catalog publications and acknowledge the CRESCENT project as appropriate.
+If you use the Earthquake Catalog Repository or the CRESCENT Earthquake Catalog Viewer in your research, please cite the relevant catalog publications as well as the Zenodo release:
+
+Marfo, W., Thomas, A., Bachelot, L., Journeau, C., Ni, Y., Hirao, B., & Trugman, D. (2026).  
+*The Cascadia Region Earthquake Science Center (CRESCENT) Earthquake Catalog Viewer (v1.0.0)*. Zenodo.  
+https://doi.org/10.5281/zenodo.18636679
+
+### BibTeX
+
+BibTeX:
+
+```bibtex
+@software{marfo2026crescent_eqcat_viewer,
+  author  = {Marfo, William and Thomas, Amanda and Bachelot, Lo{\"i}c and Journeau, Cyril and Ni, Yiyu and Hirao, Brian and Trugman, Daniel},
+  title   = {{The Cascadia Region Earthquake Science Center (CRESCENT) Earthquake Catalog Repository and Viewer} (v1.0.0)},
+  year    = {2026},
+  version = {1.0.0},
+  publisher = {Zenodo},
+  doi     = {10.5281/zenodo.18636679},
+  url     = {https://doi.org/10.5281/zenodo.18636679}
+}
+```
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18636679.svg)](https://doi.org/10.5281/zenodo.18636679)
 
 ---
-
-## Live Documentation
-
-**Jupyter Book:**  
-https://cascadiaquakes.github.io/earthquake_catalog_repository/
