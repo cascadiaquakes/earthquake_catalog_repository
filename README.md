@@ -33,15 +33,6 @@ For detailed instructions, please see the **Contributing** section in the Jupyte
 
 ---
 
-## Repository Contents
-
-- `catalogs/` — Directory containing all included earthquake catalogs  
-- `notebooks/` — Example Jupyter notebooks using catalog data  
-- `docs/` — Source files for the Jupyter Book documentation  
-- `metadata/` — Templates and schemas for catalog metadata standards  
-
----
-
 ## Citation and Acknowledgment
 
 If you use the Earthquake Catalog Repository or the CRESCENT Earthquake Catalog Viewer in your research, please cite the relevant catalog publications as well as the Zenodo release:
