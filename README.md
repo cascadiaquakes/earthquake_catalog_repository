@@ -1,3 +1,54 @@
-# Earthquake Catalog Repository JupyterBook
+# CRESCENT Earthquake Catalog Repository JupyterBook
 
-This JupyterBook describes each of the earthquake catalogs included in the CRESCENT earthquake catalog viewer and how users can submit catalogs to the repository.
+This repository supports the **Earthquake Catalog Repository**, which documents the earthquake catalogs included in the **CRESCENT Earthquake Catalog Viewer** and describes how users can submit catalogs to the repository.
+
+📘 **View the Jupyter Book:**  
+👉 https://cascadiaquakes.github.io/earthquake_catalog_repository/
+
+The Jupyter Book provides:
+
+- A description of each earthquake catalog hosted in the repository  
+- Metadata standards and catalog formatting requirements  
+- Instructions for submitting new earthquake catalogs  
+- Examples of how catalogs are used in the viewer  
+
+---
+
+## About the Earthquake Catalog Repository
+
+The Earthquake Catalog Repository is a community-driven collection of earthquake catalog data that supports research, visualization, and analysis workflows across the CRESCENT cyberinfrastructure. Catalogs included here follow a standardized structure to facilitate interoperability and reuse. This Jupyter Book serves as both documentation and a tutorial for users and contributors.
+
+---
+
+## Contributing Catalogs
+
+We welcome contributions from researchers and community members. To submit a new catalog:
+
+1. Review the catalog structure and metadata requirements in the Jupyter Book.
+2. Format your catalog according to the guidelines.
+3. Submit a pull request to <a href="https://github.com/cascadiaquakes/cascadia-earthquake-viewer/issues" target="_blank">CRESCENT Earthquake Catalog Viewer Issue Page</a> with your formatted catalog and page.
+4. Your contribution will be reviewed and, if approved, incorporated into the repository and the CRESCENT viewer.
+
+For detailed instructions, please see the **Contributing** section in the Jupyter Book.
+
+---
+
+## Repository Contents
+
+- `catalogs/` — Directory containing all included earthquake catalogs  
+- `notebooks/` — Example Jupyter notebooks using catalog data  
+- `docs/` — Source files for the Jupyter Book documentation  
+- `metadata/` — Templates and schemas for catalog metadata standards  
+
+---
+
+## Citation and Acknowledgment
+
+If you use the Earthquake Catalog Repository or the CRESCENT Earthquake Catalog Viewer in your research, please cite the relevant catalog publications and acknowledge the CRESCENT project as appropriate.
+
+---
+
+## Live Documentation
+
+**Jupyter Book:**  
+https://cascadiaquakes.github.io/earthquake_catalog_repository/
