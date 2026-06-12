@@ -27,9 +27,9 @@ project:
         - file: catalogs/wech_jgr_2021.md
           title: Wech (2021)
         - file: catalogs/merrill_g3_2022.md
-          title: Ducellier et al. (2022)
-        - file: catalogs/ducellier_jgr_2022.md
           title: Merrill et al. (2022)
+        - file: catalogs/ducellier_jgr_2022.md
+          title: Ducellier et al. (2022)
         - file: catalogs/morton_jgr_2023.md
           title: Morton et al. (2023)
         - file: catalogs/littel_tectonics_2023.md

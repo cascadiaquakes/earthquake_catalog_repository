@@ -25,5 +25,5 @@ Deformation along oceanic transform faults is partitioned between seismic and as
 - **DETECTION METHOD:** PickBLue ML OBS picker
 - **ASSOCIATION METHOD:** PyOcto
 - **LOCATION METHOD:** NonLinLoc-SSST
-- **VELOCITY MODEL:** Christeson et al 2010
+- **VELOCITY MODEL:** From https://doi.org/10.1029/2009GC002864
 - **MAGNITUDE TYPE:** Local magnitude
