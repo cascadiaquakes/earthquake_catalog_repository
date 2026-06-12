@@ -38,6 +38,8 @@ project:
           title: Shelly et al. (2025)
         - file: catalogs/hirao_jgr_2025.md
           title: Hirao et al. (2025)
+        - file: catalogs/journeau_jgr_2026.md
+          title: Journeau et al. (2026)
 
     # --- Submission Instructions ---
     - title: Submission Instructions
