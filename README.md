@@ -1,62 +1,98 @@
-# CRESCENT Earthquake Catalog Repository JupyterBook
+# CRESCENT Earthquake Catalog Repository Book
 
-This repository supports the **Earthquake Catalog Repository**, which documents the earthquake catalogs included in the **CRESCENT Earthquake Catalog Viewer** and describes how users can submit catalogs to the repository.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18636678.svg)](https://doi.org/10.5281/zenodo.18636678)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 
-📘 **View the Jupyter Book:**  
-👉 <a href="https://cascadiaquakes.github.io/earthquake_catalog_repository/" target="_blank">CRESCENT Earthquake Catalog Repository and Viewer Jupyter Book</a>
+Documentation for the earthquake catalogs included in the CRESCENT Earthquake Catalog Viewer: a description of each catalog, metadata and formatting requirements, and instructions for submitting new catalogs.
 
-The Jupyter Book provides:
+**Read the book:** https://cascadiaquakes.github.io/earthquake_catalog_repository/
 
-- A description of each earthquake catalog hosted in the repository  
-- Metadata standards and catalog formatting requirements  
-- Instructions for submitting new earthquake catalogs  
-- Examples of how catalogs are used in the viewer  
+**Viewer:** https://eqcat.cascadiaquakes.org
 
 ---
 
-## About the Earthquake Catalog Repository
+## Contents
 
-The Earthquake Catalog Repository is a community-driven collection of earthquake catalog data that supports research, visualization, and analysis workflows across the CRESCENT cyberinfrastructure. Catalogs included here follow a standardized structure to facilitate interoperability and reuse. This Jupyter Book serves as both documentation and a tutorial for users and contributors.
+- **Introduction**: the repository and how catalogs are used in the viewer
+- **Catalogs**: one page per catalog (`catalogs/`)
+- **Submission Instructions**: catalog format, metadata requirements and how to submit (`submission.md`)
 
 ---
 
-## Contributing Catalogs
+## Building Locally
 
-We welcome contributions from researchers and community members. To submit a new catalog:
+The book is built with [MyST](https://mystmd.org). With Node.js installed, run from the repository root:
 
-1. Review the catalog structure and metadata requirements in the Jupyter Book.
+```bash
+npx --yes mystmd start
+```
+
+Then open the URL it prints.
+
+---
+
+## Deployment
+
+GitHub Actions builds the book on every push to `main` and publishes it to GitHub Pages.
+
+---
+
+## Contributing
+
+1. Review the catalog structure and metadata requirements in the book.
 2. Format your catalog according to the guidelines.
-3. Submit a pull request to <a href="https://github.com/cascadiaquakes/cascadia-earthquake-viewer/issues" target="_blank">CRESCENT Earthquake Catalog Viewer Issue Page</a> with your formatted catalog and page.
-4. Your contribution will be reviewed and, if approved, incorporated into the repository and the CRESCENT viewer.
-
-For detailed instructions, please see the **Contributing** section in the Jupyter Book.
+3. [Open an issue](https://github.com/cascadiaquakes/cascadia-earthquake-viewer/issues) on the viewer repository with your formatted catalog and description page.
+4. Your contribution will be reviewed and, if approved, added to the repository and the viewer.
 
 ---
 
-## Citation and Acknowledgment
+## How to Cite
 
-If you use the Earthquake Catalog Repository or the CRESCENT Earthquake Catalog Viewer in your research, please cite the relevant catalog publications as well as the Zenodo release:
+Please cite the publication for each catalog you use, and the repository and viewer:
 
-Marfo, W., Thomas, A., Bachelot, L., Journeau, C., Ni, Y., Hirao, B., & Trugman, D. (2026).  
-*The Cascadia Region Earthquake Science Center (CRESCENT) Earthquake Catalog Viewer (v1.0.0)*. Zenodo.  
-https://doi.org/10.5281/zenodo.18636679
-
-### BibTeX
-
-BibTeX:
+> Marfo, W., Thomas, A., Bachelot, L., Journeau, C., Ni, Y., Hirao, B., & Trugman, D. (2026). *The Cascadia Region Earthquake Science Center (CRESCENT) Earthquake Catalog Repository and Viewer* (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.18636678
 
 ```bibtex
 @software{marfo2026crescent_eqcat_viewer,
-  author  = {Marfo, William and Thomas, Amanda and Bachelot, Lo{\"i}c and Journeau, Cyril and Ni, Yiyu and Hirao, Brian and Trugman, Daniel},
-  title   = {{The Cascadia Region Earthquake Science Center (CRESCENT) Earthquake Catalog Repository and Viewer} (v1.0.0)},
-  year    = {2026},
-  version = {1.0.0},
+  author    = {Marfo, William and Thomas, Amanda and Bachelot, Lo{\"i}c and Journeau, Cyril and Ni, Yiyu and Hirao, Brenton and Trugman, Daniel},
+  title     = {{The Cascadia Region Earthquake Science Center (CRESCENT) Earthquake Catalog Repository and Viewer} (v1.0.0)},
+  year      = {2026},
+  version   = {1.0.0},
   publisher = {Zenodo},
-  doi     = {10.5281/zenodo.18636679},
-  url     = {https://doi.org/10.5281/zenodo.18636679}
+  doi       = {10.5281/zenodo.18636678},
+  url       = {https://doi.org/10.5281/zenodo.18636678}
 }
 ```
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18636679.svg)](https://doi.org/10.5281/zenodo.18636679)
+---
+
+## License
+
+This project is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). See [LICENSE](LICENSE).
 
 ---
+
+## Contacts
+
+- **William Marfo**, University of California, Davis: [wmarfo@ucdavis.edu](mailto:wmarfo@ucdavis.edu)
+- **Amanda M. Thomas**, University of California, Davis: [amthom@ucdavis.edu](mailto:amthom@ucdavis.edu)
+- **Loïc Bachelot**, University of Oregon: [lbachelo@uoregon.edu](mailto:lbachelo@uoregon.edu)
+
+For corrections or suggestions, please [open an issue](https://github.com/cascadiaquakes/earthquake_catalog_repository/issues).
+
+---
+
+## Acknowledgments
+
+<table>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/cascadiaquakes/.github/main/assets/crescent-circle.png" alt="CRESCENT Logo" width="150" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/cascadiaquakes/.github/main/assets/nsf-logo.png" alt="NSF Logo" width="450" />
+    </td>
+  </tr>
+</table>
+
+This project is supported by the National Science Foundation through the Cascadia Region Earthquake Science Center (CRESCENT), Cooperative Agreement EAR-2225286.
