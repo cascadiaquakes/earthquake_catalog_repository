@@ -6,6 +6,7 @@
 Documentation for the earthquake catalogs included in the CRESCENT Earthquake Catalog Viewer: a description of each catalog, metadata and formatting requirements, and instructions for submitting new catalogs.
 
 **Read the book:** https://cascadiaquakes.github.io/earthquake_catalog_repository/
+
 **Viewer:** https://eqcat.cascadiaquakes.org
 
 ---
